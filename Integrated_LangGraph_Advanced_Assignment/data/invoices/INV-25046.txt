@@ -1,0 +1,14 @@
+                               TAX INVOICE
+Halcyon Pumps & Valves
+Survey No. 41, Vatva GIDC, Ahmedabad
+
+Invoice No : INV-25046          Date : 09.10.2026
+PO No      : PO-8806            Dispatch : 05.10.2026
+Buyer      : Northstar Industrial Services
+
+Description                       Qty   Rate         Amount
+Centrifugal pump 7.5 kW            2   ₹ 58,000     ₹ 1,16,000
+Gate valves DN100                  8   ₹ 4,500      ₹ 36,000
+                                        Taxable      ₹ 1,52,000
+                                        IGST 18%     ₹ 27,360
+                                  Invoice Total      ₹ 1,79,360.00

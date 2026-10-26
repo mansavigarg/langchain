@@ -1,0 +1,46 @@
+{
+  "meetings": [
+    {
+      "meeting_id": "PRM-204",
+      "po_number": "PO-8803",
+      "title": "October PO Exception Review",
+      "attendees": ["Meera Shah", "Arjun Rao", "Kavya Iyer", "Daniel D'Souza"],
+      "notes": "The group met to discuss the Orion Industrial Supplies order for maintenance spares. Kavya Iyer opened by explaining that the approved value of the order was based on the pre-GST quotation, while the supplier appears to be billing a tax-inclusive total, which would explain why their invoices keep landing above the approved figure. Meera Shah said she would reconcile the tax-inclusive total against the approved purchase order before the end of the week and share the variance with finance. Arjun Rao noted that two coupling kits were still back-ordered and that the supplier had hinted at a new delivery date; he agreed to confirm the revised delivery schedule with the supplier so that the plant can plan the shutdown window. Daniel D'Souza wondered whether the order should simply be amended, but the group felt it was better to wait for Meera's reconciliation before raising any amendment. Nobody had further points, and the meeting closed after about twenty minutes."
+    },
+    {
+      "meeting_id": "PRM-205",
+      "po_number": "PO-8804",
+      "title": "Safety Gear Vendor Master Review",
+      "attendees": ["Priya Nair", "Rohan Kulkarni", "Sneha Pillai", "Farhan Qureshi"],
+      "notes": "This review looked at the safety gear purchase order placed with Vertex Safety Gear for the EHS department. Priya Nair reported that the supplier has recently started trading under the name Vertex Safety Equipment, and that its invoices now carry the new name even though our vendor master still shows the old one. Rohan Kulkarni pointed out that we cannot pay a vendor whose legal name does not match our records, so Priya will ask the supplier for its certificate of incorporation or a name-change letter. Once that document arrives, Sneha Pillai is going to update the vendor master and attach the evidence for audit. Farhan Qureshi raised a separate concern that the coveralls delivered last week have not yet been inspected, and he said he would arrange a quality inspection with the stores team before anything is released. The group also chatted briefly about next quarter's boot sizes, but decided that could wait. Everyone agreed to meet again once the documents are in."
+    },
+    {
+      "meeting_id": "PRM-206",
+      "po_number": "PO-8805",
+      "title": "Duplicate Invoice Investigation - Fasteners",
+      "attendees": ["Anil Menon", "Lakshmi Rao", "Joseph Mathew", "Tanvi Desai"],
+      "notes": "Anil Menon called this short session after the payments team flagged that Meridian Fasteners had resubmitted an invoice for the hex bolt delivery that had already been settled in September. Lakshmi Rao confirmed from the ledger that the original payment cleared on the twenty-ninth and that the bank reference was available. She offered to send the supplier a copy of the remittance advice so they can close the item on their side. Joseph Mathew felt the resubmission was probably an error in the supplier's billing software rather than anything deliberate, but suggested that we still ask them to issue a written confirmation that the duplicate invoice is withdrawn. Tanvi Desai asked whether our own system should have blocked the second invoice earlier; she will review the duplicate-check settings in the AP tool and report back at the next review. Anil thanked everyone and noted that no money had gone out twice, which was the main concern. The meeting ran for about fifteen minutes in total."
+    },
+    {
+      "meeting_id": "PRM-207",
+      "po_number": "PO-8806",
+      "title": "Utilities Pump Order Closure Check",
+      "attendees": ["Suresh Babu", "Neha Gupta", "Imran Sheikh", "Ritu Bansal"],
+      "notes": "The discussion centred on the Halcyon Pumps & Valves order for the utilities block, which was closed in the system in September after the first pump was received. Suresh Babu explained that the second pump and the gate valves were delivered later, so the supplier's latest invoice refers to a purchase order that is no longer open, and the invoice value is also well above what was originally approved because of the extra valves. Neha Gupta said that utilities still needs the equipment and that she would raise a fresh purchase order for the balance quantity with the correct value. Imran Sheikh reminded the room that closing orders early has caused this problem before, and he took it upon himself to circulate a short note to department heads explaining when an order may be closed. Ritu Bansal will let the supplier know that the invoice needs to be reissued against the new order number once it exists. There was general agreement, and the meeting ended without any other business."
+    },
+    {
+      "meeting_id": "PRM-208",
+      "po_number": "PO-8808",
+      "title": "Sinnar Site Equipment Hire Hold",
+      "attendees": ["Kiran Patil", "Deepa Shetty", "Mohan Reddy", "Alisha Fernandes"],
+      "notes": "Kiran Patil reminded the group that the earthmoving hire order with Granite Earthmovers was put on hold in late August because the Sinnar expansion budget was being re-approved by the board. Deepa Shetty mentioned that the contractor nonetheless kept the excavator on site and is now billing for the second half of September. Mohan Reddy said the board approved the revised budget last Thursday, so he would obtain the signed approval minutes and send them to procurement as soon as possible. With that in hand, Kiran will ask the system administrator to release the hold on the purchase order. Alisha Fernandes was worried that the site logbook may not match the sixteen days being billed, and she agreed to verify the operator attendance records against the invoice before anything is paid. Deepa added that she would ring the contractor to explain the delay politely so that the relationship is not damaged. The session closed with everyone comfortable that the hold could be lifted within the week."
+    },
+    {
+      "meeting_id": "PRM-209",
+      "po_number": "PO-8810",
+      "title": "Compressor Annual Maintenance Planning",
+      "attendees": ["Gaurav Sinha", "Pooja Venkat", "Rahul Chandra", "Nisha Thomas"],
+      "notes": "Gaurav Sinha walked the group through the annual maintenance contract with Zenith Compressors, which is due for its first service visit in November. Pooja Venkat said the utilities team would prefer the visit on a weekend to avoid a production stoppage, and she agreed to propose two weekend dates to the supplier by Monday. Rahul Chandra observed that last year's spare-parts list was never shared with stores; he will collect the recommended spares list from Zenith and pass it to the stores manager so that the parts are ready in advance. Nisha Thomas asked how the service would be invoiced, since the contract allows quarterly billing, and she said she would check with finance whether the quarterly invoices can be matched automatically against the purchase order. Gaurav closed by noting that the contract is in good shape overall and that no escalation was needed, and the group agreed to revisit the plan after the first visit."
+    }
+  ]
+}

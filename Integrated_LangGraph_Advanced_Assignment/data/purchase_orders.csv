@@ -1,0 +1,25 @@
+po_number,vendor_name,approved_amount,currency,status,department,order_date
+PO-8780,Kestrel IT Services,97500.00,INR,Closed,IT,2026-06-02
+PO-8781,Crescent Stationers,14250.00,INR,Closed,Administration,2026-06-05
+PO-8782,Orbit Facility Services,39900.00,INR,Closed,Facilities,2026-06-09
+PO-8783,Silverline Security Services,186000.00,INR,Open,Facilities,2026-06-12
+PO-8784,Greenleaf Caterers,52000.00,INR,Open,HR,2026-06-15
+PO-8785,Metro Courier Co.,8600.00,INR,Open,Logistics,2026-06-18
+PO-8786,Bright Spark Electricals,73400.00,INR,On Hold,Maintenance,2026-06-22
+PO-8787,Tristar Logistics,128000.00,INR,Open,Logistics,2026-06-25
+PO-8788,Sunrise Printers,21500.00,INR,Closed,Marketing,2026-06-28
+PO-8789,Delta Hydraulics,264000.00,INR,Open,Production,2026-07-01
+PO-8790,Pioneer Lubricants,45800.00,INR,Open,Maintenance,2026-07-04
+PO-8791,Coastal Packaging Ltd.,67250.00,INR,Open,Production,2026-07-08
+PO-8792,Summit Welding Works,118500.00,INR,Closed,Production,2026-07-11
+PO-8793,Nova Lab Instruments,302000.00,INR,Open,Quality,2026-07-15
+PO-8794,Riverbend Uniforms,36400.00,INR,Open,HR,2026-07-19
+PO-8795,Apex Office Supplies,48750.00,INR,Open,Administration,2026-07-23
+PO-8801,Northstar Components Ltd.,48500.00,INR,Open,Production,2026-08-04
+PO-8802,Bluepeak Tooling Pvt. Ltd.,100000.00,INR,open,Production,2026-08-07
+PO-8803,Orion Industrial Supplies,215000.00,INR,Open,Maintenance,2026-08-11
+PO-8804,Vertex Safety Gear,84000.00,INR,Open,EHS,2026-08-14
+PO-8805,Meridian Fasteners,56300.00,INR,Open,Production,2026-08-18
+PO-8806,Halcyon Pumps & Valves,142000.00,INR,Closed,Utilities,2026-08-21
+PO-8808,Granite Earthmovers,390000.00,INR,On Hold,Projects,2026-08-27
+PO-8810,Zenith Compressors,175000.00,INR,Open,Utilities,2026-09-02

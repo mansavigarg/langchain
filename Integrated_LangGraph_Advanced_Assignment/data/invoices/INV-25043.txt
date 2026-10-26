@@ -1,0 +1,8 @@
+ORION INDUSTRIAL SUPPLIES -- INVOICE SUMMARY
+Inv: INV-25043 | Date: 08-Oct-2026 | PO: PO-8803
+Supplier: Orion Industrial Supplies
+Items: 120 x gearbox oil seals @ INR 1,450 ; 30 x coupling kits @ INR 1,900
+Line totals: INR 1,74,000 + INR 57,000
+GST 18% included
+Total payable: INR 2,31,000.00
+Due: 07-Nov-2026

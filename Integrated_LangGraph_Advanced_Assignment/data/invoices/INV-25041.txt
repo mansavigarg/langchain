@@ -1,0 +1,18 @@
+From: accounts@northstarcomponents.example
+To: ap@northstar-industrial.example
+Subject: Invoice INV-25041 for PO-8801
+
+Dear Accounts Payable team,
+
+Please find our invoice for the 40 bearing housings delivered to the Pune plant on 03 Oct 2026.
+
+Invoice No.   : INV-25041
+Vendor        : Northstar Components Ltd.
+Purchase Order: PO-8801
+Unit rate     : Rs. 1,212.51 x 40
+Total payable : Rs. 48,500.40
+
+Payment terms: Net 30.
+
+Warm regards,
+Billing Desk, Northstar Components Ltd.

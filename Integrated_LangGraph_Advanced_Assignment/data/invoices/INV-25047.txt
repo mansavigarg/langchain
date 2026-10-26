@@ -1,0 +1,6 @@
+QUICK INVOICE
+Vendor: Tristar Logistics
+Invoice # INV-25047   (raised 11/10/2026)
+Against PO: PO-8999
+Service: 4 full-truck-load trips Pune-Chennai, 03-06 Oct, Rs. 24,500 per trip
+Total payable: Rs. 98,000

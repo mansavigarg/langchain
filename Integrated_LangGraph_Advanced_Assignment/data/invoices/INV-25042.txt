@@ -1,0 +1,16 @@
+                               TAX INVOICE
+BLUEPEAK TOOLING PVT. LTD.
+Plot 18, MIDC Bhosari, Pune 411026          GSTIN 27AABCB1234K1Z9
+
+Bill To: Northstar Industrial Services, Accounts Payable
+Invoice Number: INV-25042            Invoice Date: 06/10/2026
+Your PO Ref   : PO-8802              Delivery Date: 02/10/2026
+
+Sl  Description                 Qty   Rate        Amount
+1   Carbide end mills (12 mm)    60   ₹ 850.00    ₹ 51,000.00
+2   Tool holders BT40            25   ₹ 1,600.00  ₹ 40,000.00
+                                       Sub-total   ₹ 91,000.00
+                                       Freight     ₹ 11,000.00
+                                 GRAND TOTAL (INR)  ₹ 1,02,000.00
+
+Amount in words: Rupees One Lakh Two Thousand only.

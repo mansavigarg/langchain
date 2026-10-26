@@ -1,0 +1,16 @@
+From: billing@meridianfasteners.example
+To: ap@northstar-industrial.example
+Subject: Invoice INV-25045 / PO-8805
+
+Hello team,
+
+Sending our invoice for the hex bolts and lock nuts delivered on 29 Sep 2026.
+
+Invoice Number: INV-25045
+Vendor: Meridian Fasteners
+PO Number: PO-8805
+Quantity: 5,000 pcs  |  Rate: Rs. 11.26
+Amount Due: INR 56,300.00
+
+Thanks,
+Meridian Fasteners Billing

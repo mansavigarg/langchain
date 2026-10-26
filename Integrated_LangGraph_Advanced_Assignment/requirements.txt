@@ -1,0 +1,7 @@
+langgraph>=1.2
+langchain-core>=1.6
+google-genai>=2.29
+pydantic>=2.13
+python-dotenv>=1.2
+pandas>=3.0
+pytest>=9.1
